@@ -1,0 +1,24 @@
+# Theme metadata
+name = "simplio"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#026da3"
+primary_light = "#026da3"
+primary_dark = "#002984"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#2b2b2b"
+menu_text_active = "#B3A369"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
+
+# Links
+link = "#026da3"
+link_hover = "#B3A369"
